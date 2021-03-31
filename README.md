@@ -16,6 +16,7 @@ in old papers (often not very clearly) and was only used on a relatively small d
 > - Standard Normal Variate
 > - Partial Least Squares
 > - Interval Partial Least Squares
-> - Maximum Correntropy Weighted Partial Least Squares
+> - Maximum Correntropy Weighted Partial Least Squares (courtesy of Valeria Fonseca Diaz)
 > - Support Vector Regression
->
+> - Stepwise multiple regression
+> - Bunch of plotting tools
