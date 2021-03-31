@@ -7,9 +7,10 @@ which implements PLS_Toolbox without Matlab. While my implementations are very f
 in papers (often not very clearly) and was only used on a relatively small dataset, so efficiency was not a concern. **Unfortunately, the underlying dataset could not be made public.** Even so, my code might save a lot of headache for someone trying to do chemometrics in Python or without paying licensing fees.
 
 ># Used techniques
+> - Measurement Day Cross-Validation
 > - Conversion to absorbance
 > - Baseline correction and detrending
-> - Smoothing and derivatives
+> - Savitzky-Golay Smoothing and derivatives
 > - Multiplicative Scatter Correction
 > - Orthogonal Signal Correction
 > - Standard Normal Variate
@@ -17,4 +18,4 @@ in papers (often not very clearly) and was only used on a relatively small datas
 > - Interval Partial Least Squares
 > - Maximum Correntropy Weighted Partial Least Squares
 > - Support Vector Regression
-
+>
