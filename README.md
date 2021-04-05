@@ -16,7 +16,7 @@ in old papers (often not very clearly) and was only used on a relatively small d
 > - Multiplicative Scatter Correction
 > - Orthogonal Signal Correction
 > - Standard Normal Variate
-> - Partial Least Squares
+> - Partial Least Squares (with multiple algorithms)
 > - Interval Partial Least Squares
 > - Maximum Correntropy Weighted Partial Least Squares (courtesy of Valeria Fonseca Diaz)
 > - Support Vector Regression
